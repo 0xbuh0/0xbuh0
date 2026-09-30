@@ -5,19 +5,26 @@
 ---
 
 <div align="center">
-      <h3>Hacking Blog</h3>
+      <h3>Hacking Website</h3>
       <a href="https://0xbuh0.github.io/">
         <img src="https://github.com/user-attachments/assets/77b3f67c-3c2c-4cf5-b3c3-38f16760a7c4" alt="Blog Hacking" style="width: 80%; max-height: 180px; border-radius: 20px; margin: 12px 0;">
       </a>
       <br><br>
-      <p>Blog personal .</p>
+      <p>Pagina web personal donde subo writeups de diferentes plataformas, herramientas nuevas enfocadas a ciberseguridad y publicaciones en diversos temas de ciberseguridad.</p>
       <a href="https://0xbuh0.github.io/">
-        <img src="https://img.shields.io/badge/VIEW_BLOG-000000?style=for-the-badge&logoColor=white&color=000000" alt="View Blog">
+        <img src="https://img.shields.io/badge/VIEW_WEBSITE-000000?style=for-the-badge&logoColor=white&color=000000" alt="View Website">
       </a>
 </div>
 
 <h2>💻 Habilidades</h2>
 
+<img width="52" height="52" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> &nbsp;
+<img width="52" height="52" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/> &nbsp;
+<img width="52" height="52" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/> &nbsp;
+<img width="52" height="52" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/> &nbsp;
+<img width="52" height="52" src="https://img.icons8.com/color/48/bash.png" alt="bash"/> &nbsp;
+<img width="52" height="52" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark"/> &nbsp;
+<img width="52" height="52" src="https://img.icons8.com/ios/50/burp-suite.png" alt="burp-suite"/>
 
 <h2>🙊 Sobre Mi</h2>
 <table align="center" border="0" cellspacing="0" cellpadding="10" style="width: 100%; max-width: 700px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
@@ -39,6 +46,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xbuh0/0xbuh0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -48,10 +56,15 @@
 
 <h2>👻 Contacto</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000?logo=instagram&logoColor=white)](https://www.instagram.com/guguvk_)
-[![Gmail](https://img.shields.io/badge/Gmail-%23000000?logo=gmail&logoColor=white)](mailto:esseaxel1400@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guguvk)
-[![Discord](https://img.shields.io/badge/Discord-%23000000?logo=discord&logoColor=white)](https://discordapp.com/users/guguvk)
+<a href="https://www.linkedin.com/in/guguvk" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a> &nbsp;
+<a href="https://www.instagram.com/0xbuh0" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+</a> &nbsp;
+<a href="https://www.youtube.com/@00xbuh0" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/youtube-play.png" alt="Youtube"/>
+</a> &nbsp;
 
 <h2 align="left">
   ⚙️ GitHub Stats
